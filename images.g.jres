@@ -1,0 +1,32 @@
+{
+    "image5": {
+        "data": "hwQHAAkAAAAAAAACAAAAAAAAIAIFAAAAINLdTQAAAAAi0t1NBQAAACDS3U0AAAAAAAAgAgUAAAAAAAACAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "missile"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//w8AAAAA/zMz/wAAAAA/MzPzDwAAAD8zMzP/AAAAPzMzs/sPAAD/MzO7u/8AAPA/M7u7+wAA/zMzu7v/AAA/EzGz+w8AAD8TMTP/AAAAPzMz8w8AAAD/MzP/AAAAAPD//w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heart"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABARAAAAAAAAEBEAAAAAAAAQEQAAAAAAEBERAAAAAAAQEREAAAAAABAREQAAAAAAEBERAAAAAAAAEBEAAAAAAAAQEQAAAAAAABARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ship"
+    },
+    "image3": {
+        "data": "hwQCAAIAAAAiAAAAIgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "laser"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA0AsAAAAAAADZCwAAAAAAkNkLAAAAAACQ2QsAAAAAAADZCwAAAAAAANALAAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ufo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

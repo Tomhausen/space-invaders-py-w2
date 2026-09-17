@@ -1,0 +1,35 @@
+{
+    "name": "space invaders py w2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Sprites Advanced": "github:Tomhausen/Sprites-Advanced#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "Extra Effects": "github:The-Code-Zone/extra-effects#v0.0.1",
+        "arcade-sprite-events": "github:The-Code-Zone/Events-pxt-extension#v0.1.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.15",
+        "pxt": "10.0.23",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
